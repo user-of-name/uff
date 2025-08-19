@@ -1,18 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <title>United Fried Front</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="Style/style.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <link rel="icon" href="/Images/UFF-png-fried.png" type="image/png">
-</head>
-
-<body>
-    <!-- header -->
+<?php
+$title = "United Fried Front";
+?>
+<?php include 'includes/head.php'; ?>
+<body>  
 <div class="container">
   <h1 class="">United Fried Front(۶•̀ᴗ•́)۶</h1>
   <p class="">Collective of people fried in the brain and soft in the heart 💜💯</p>
@@ -23,7 +16,7 @@
 <div class="row" style="width: 95%; margin: 0 auto;">
     <div class="col-lg-6">
 
-        <a href="projects.html" class="cube">
+        <a href="projects.php" class="cube">
             <h2 class="text-center">Projects</h2>
             <div style="width: 100%; aspect-ratio: 3 / 2; overflow: hidden;">
                 <img src="/Images/Rats-on-the-Run-0058.00_05_28_24.Still002.jpg" style="width: 100%; height: 100%; object-fit: cover;">
@@ -31,7 +24,7 @@
         </a>
     </div>
     <div class="col-lg-6">
-        <a href="about.html" class="cube">
+        <a href="about.php" class="cube">
             <h2 class="text-center">About</h2>
             <div style="width: 100%; aspect-ratio: 3 / 2; overflow: hidden;">
                 <img src="/Images/UFF Portraits anon3 a3 riso print_20230119.jpg" style="width: 100%; height: 100%; object-fit: cover;">

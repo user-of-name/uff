@@ -1,38 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <title>UFF Poing</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/Style/style.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-      <link rel="icon" href="/Images/UFF-png-fried.png" type="image/png">
-</head>
+<?php 
+$title = "UFF Poing Exhibition";
+include '../includes/head.php';
+?>
 
 <body>
 <div class="container">
-  <h1 class="text-center">✨(っ◔︣◡◔᷅)っ** Poing exhibition **c(◕︣◡◕᷅c)✨</h1>
+  <h1 class="text-center">✨(っ◔︣◡◔᷅)っ** Poing Exhibition **c(◕︣◡◕᷅c)✨</h1>
 </div>
-<!-- navbar -->
-<div class="row navbar">
-    <div class="col-sm-4 navbar-item">
-        <a href="/index.html">
-            <p class="navbar-item">Home</p>
-        </a>
-    </div>
-    <div class="col-sm-4 navbar-item">
-        <a href="/projects.html">
-            <p class="navbar-item">Projects</p>
-        </a>
-    </div>
-<div class="col-sm-4 navbar-item">
-        <a href="/about.html">
-            <p class="navbar-item">About</p>
-        </a>
-    </div>
-</div>
+<?php include '../includes/navbar.php'; ?>
 <!-- first row of columns -->
 <div class="row" style="width: 95%; margin: 0 auto;">
     <div class="col-md-4">

@@ -1,42 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <title>UFF Projects</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="Style/style.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-      <link rel="icon" href="/Images/UFF-png-fried.png" type="image/png">
-</head>
+<?php 
+$title = "UFF Projects";
+include 'includes/head.php';
+?>
 
 <body>
 <div class="container">
   <h1 class="text-center">✨(っ◔︣◡◔᷅)っ** Projects **c(◕︣◡◕᷅c)✨</h1>
 </div>
 <!-- navbar -->
-<div class="row navbar">
-    <div class="col-sm-4 navbar-item">
-        <a href="/index.html">
-            <p class="navbar-item">Home</p>
-        </a>
-    </div>
-    <div class="col-sm-4 navbar-item">
-        <a href="/projects.html">
-            <p class="navbar-item">Projects</p>
-        </a>
-    </div>
-<div class="col-sm-4 navbar-item">
-        <a href="/about.html">
-            <p class="navbar-item">About</p>
-        </a>
-    </div>
-</div>
+<?php include 'includes/navbar.php'; ?>
 <!-- projects begin -->
 <div class="row" style="width: 95%; margin: 0 auto;">
     <div class="col-lg-6">
-        <a href="Projects/Rats-On-The-Run.html" class="cube">
+        <a href="Projects/Rats-On-The-Run.php" class="cube">
             <h3>Rats On The Run</h3>
             <p>2025 / Sluts in Squats, Rotterdam</p>
             <div style="width: 100%; aspect-ratio: 3 / 2; overflow: hidden;">
@@ -44,7 +23,7 @@
             </div>
         </a>
         
-        <a href="Projects/poingexhibit.html" class="cube">
+        <a href="Projects/poingexhibit.php" class="cube">
             <h3>Poing expo</h3>
             <p>2023 / Poing, Rotterdam</p>
             <div style="width: 100%; aspect-ratio: 3 / 2; overflow: hidden;">
@@ -53,7 +32,7 @@
         </a>
     </div>
     <div class="col-lg-6">
-        <a href="Projects/poingexhibit.html" class="cube">
+        <a href="Projects/poingexhibit.php" class="cube">
             <h3>UFF Servers</h3>
             <p>2022-Ongoing / ???</p>
             <div style="width: 100%; aspect-ratio: 3 / 2; overflow: hidden;">
