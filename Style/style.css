@@ -1442,11 +1442,12 @@ html {
 }
 
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding-top: 5%;
+    font-family: "OpenDyslexic";
     font-size: 14px;
     line-height: 1.42857143;
     color: #333;
-    background-color: #ffffff
+    background-color: #35ff27
 }
 
 button,
@@ -1465,8 +1466,8 @@ a {
 
 a:focus,
 a:hover {
-    color: #23527c;
-    text-decoration: underline
+    color: #ffffff;
+    /* text-decoration: underline */
 }
 
 a:focus {
@@ -1479,7 +1480,14 @@ figure {
 }
 
 img {
-    vertical-align: middle
+    vertical-align: middle;
+}
+.project-img {
+    vertical-align: middle;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    padding: 5px;
 }
 
 .carousel-inner>.item>a>img,
@@ -5247,11 +5255,19 @@ textarea.input-group-sm>.input-group-btn>.btn {
 .navbar {
     position: center;
     min-height: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     margin-top: 10px;
     width: 90vh;
     margin: 0 auto;
-
+    border-top: #000 1px solid;
+}
+.navbar-item{
+    color: #000000;
+    text-align: center;
+    
+}
+.navbar-item:hover{
+color: white;
 }
 
 @media (min-width:768px) {
