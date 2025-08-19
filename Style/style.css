@@ -40,7 +40,7 @@ body {
     background-color: #000000;
 }
 .cube {
-    background: #fff;
+    background: transparent;
     display: block;
     padding: 6px;
     margin-bottom: 6px;
@@ -81,7 +81,7 @@ template {
 }
 
 a {
-    background-color: 
+    background-color: transparent;
 }
 
 a:active,
@@ -326,7 +326,10 @@ th {
     }
 
     .navbar {
-        display: none
+        display: block;
+        width: 90vh;
+        margin: 0 auto;
+        background-color: black;
     }
 
     .btn>.caret,
@@ -1443,7 +1446,7 @@ body {
     font-size: 14px;
     line-height: 1.42857143;
     color: #333;
-    background-color: #d5d5d5
+    background-color: #ffffff
 }
 
 button,
@@ -1456,7 +1459,7 @@ textarea {
 }
 
 a {
-    color: #337ab7;
+    color: #000000;
     text-decoration: none;
 }
 
@@ -1646,6 +1649,7 @@ h1 {
     font-family: 'OpenDyslexic';
     font-weight: bold;
     color: #000000;
+    position: center;
 }
 
 .h2,
@@ -1654,12 +1658,16 @@ h2 {
     font-family: 'OpenDyslexic';
     font-weight: bold;
     color: #000000;
+    position: center;
     
 }
 
 .h3,
 h3 {
-    font-size: 24px
+    font-size: 24px;
+    font-family: 'OpenDyslexic';
+    color: #000000;
+    position: center;
 }
 
 .h4,
@@ -5237,10 +5245,13 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .navbar {
-    position: relative;
+    position: center;
     min-height: 50px;
     margin-bottom: 20px;
-    border: 1px solid transparent
+    margin-top: 10px;
+    width: 90vh;
+    margin: 0 auto;
+
 }
 
 @media (min-width:768px) {
