@@ -7,31 +7,43 @@ $title = "United Fried Front";
 <?php include 'includes/head.php'; ?>
 <body>  
 <div class="container">
-  <h1 class="">United Fried Front(۶•̀ᴗ•́)۶</h1>
-  <p class="">Collective of people fried in the brain and soft in the heart 💜💯</p>
+  <h1 class="text-center">United Fried Front(۶•̀ᴗ•́)۶</h1>
+  <p class="text-center">Collective of people fried in the brain and soft in the heart 💜💯</p>
 </div>
 <!-- floating uff logo -->
 <marquee> <img src="/Images/Flag_of_Palestine.png" height=50px> FREE PALESTINE <img src="/Images/Flag_of_Ukraine.webp" height=50px> FREE UKRAINE <img src="/Images/_119089741_pride3.jpg" height=50px></marquee>
 <!-- main content -->
-<div class="row" style="width: 95%; margin: 0 auto;">
-    <div class="col-lg-6">
-
-        <a href="projects.php" class="cube">
-            <h2 class="text-center">Projects</h2>
-            <div style="width: 100%; aspect-ratio: 3 / 2; overflow: hidden;">
-                <img src="/Images/Rats-on-the-Run-0058.00_05_28_24.Still002.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-            </div>
-        </a>
+<div class="container">
+ <div class="row list-row-a">
+    <a href="projects.php" >
+ <div class="col-sm-4">
+        <p>PROJECTS</p>
     </div>
-    <div class="col-lg-6">
-        <a href="about.php" class="cube">
-            <h2 class="text-center">About</h2>
-            <div style="width: 100%; aspect-ratio: 3 / 2; overflow: hidden;">
-                <img src="/Images/UFF Portraits anon3 a3 riso print_20230119.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-            </div>
-        </a>
+    <div class="col-sm-8">
+        <p>Recent projects</p>
     </div>
+</a>
 </div>
-
+  <div class="row list-row-a">
+    <a href="events.php" >
+ <div class="col-sm-4">
+        <p>EVENTS</p>
+    </div>
+    <div class="col-sm-8">
+        <p>Events organised by us</p>
+    </div>
+</a>
+</div>
+  <div class="row list-row-a">
+    <a href="about.php" >
+ <div class="col-sm-4">
+        <p>ABOUT</p>
+    </div>
+    <div class="col-sm-8">
+        <p>Abotu the collective</p>
+    </div>
+</a>
+</div>
+</div>
 </body>
 </html> 

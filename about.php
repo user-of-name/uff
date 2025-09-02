@@ -8,9 +8,9 @@ include 'includes/head.php';
 
 <body>
 <div class="container">
-  <h2 class="text-center" style="padding-bottom: 5px;">✨(っ◔︣◡◔᷅)っ** About **c(◕︣◡◕᷅c)✨</h2>
+    <?php include 'includes/navbar.php'; ?>
+<h1 class="text-center">✨(っ◔︣◡◔᷅)っ** About **c(◕︣◡◕᷅c)✨</h1>
 </div>
-<?php include 'includes/navbar.php'; ?>
 <!-- first row of columns -->
 <div class="row" style="width: 95%; margin: 0 auto;">
     <div class="col-md-6">
@@ -26,39 +26,22 @@ include 'includes/head.php';
         </a>
     </div>
 </div>
-<!-- second row of columns -->
-<div class="row" style="width: 95%; margin: 0 auto;">
-    <div class="col-md-6">
-        <p style="padding: 10px;">
-            UFF CV / History
-        </p>
-        </div>
-        <div class="col-md-6">
-        <p style="padding: 10px;">
-            2024 - Rats on the Run <br>
-            2023 - Poing exhibition <br>
-            2023 - some zine fair we were at <br>
-            2022 - we were probably at a zine fair
-        </p>
-        </div>
-    </div>
-    <!-- floating uff logo -->
-<marquee> <img src="/Images/UFF-png-fried.png" height=50px> </marquee>
+
 <!-- third row of columns -->
 <div class="row" style="width: 95%; margin: 0 auto;">
-    <div class="col-md-4">
+    <div class="col-xs-4">
         <p style="padding: 10px;">
             Email
         </p>
         </div>
-        <div class="col-md-4">
+        <div class="col-xs-4">
             <a href="https://www.instagram.com/unitedfriedfront/">
         <p style="padding: 10px;">
             Instagram
         </p>
     </a>
         </div>
-        <div class="col-md-4">
+        <div class="col-xs-4">
             <a href="">
         <p style="padding: 10px;">
             pixelfed?
@@ -66,6 +49,7 @@ include 'includes/head.php';
     </a>
         </div>
     </div>
-
+    <!-- floating uff logo -->
+<marquee> <img src="/Images/UFF-png-fried.png" height=50px> </marquee>
 </body>
 </html> 

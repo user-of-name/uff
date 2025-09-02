@@ -2,19 +2,24 @@
 echo '
 <!-- navbar -->
 <div class="row navbar">
-    <div class="col-xs-4 navbar-item">
-        <a href="/index.php">
+    <a href="/index.php">
+        <div class="col-xs-3 navbar-item">
             <p class="navbar-item">Home</p>
-        </a>
-    </div>
-    <div class="col-xs-4 navbar-item">
-        <a href="/projects.php">
+        </div>
+    </a>
+    <a href="/projects.php">
+        <div class="col-xs-3 navbar-item">
             <p class="navbar-item">Projects</p>
-        </a>
-    </div>
-<div class="col-xs-4 navbar-item">
-        <a href="/about.php">
+        </div>
+    </a>
+    <a href="/events.php">
+        <div class="col-xs-3 navbar-item">
+            <p class="navbar-item">Events</p>
+        </div>
+    </a>
+    <a href="/about.php">
+        <div class="col-xs-3 navbar-item">
             <p class="navbar-item">About</p>
-        </a>
-    </div>
+        </div>
+    </a>
 </div>';

@@ -8,46 +8,56 @@ include 'includes/head.php';
 
 <body>
 <div class="container">
-  <h1 class="text-center">✨(っ◔︣◡◔᷅)っ** Projects **c(◕︣◡◕᷅c)✨</h1>
+<?php include 'includes/navbar.php'; ?>
+<h1 class="text-center">✨(っ◔︣◡◔᷅)っ** Projects **c(◕︣◡◕᷅c)✨</h1>
 </div>
 <!-- navbar -->
-<?php include 'includes/navbar.php'; ?>
-<!-- projects begin -->
-<div class="row" style="width: 95%; margin: 0 auto;">
-    <div class="col-lg-6">
-        <a href="Projects/Rats-On-The-Run.php" class="cube">
-            <h3>Rats On The Run</h3>
-            <p>2025 / Sluts in Squats, Rotterdam</p>
-            <div style="width: 100%; aspect-ratio: 3 / 2; overflow: hidden;">
-            <img src="/Images/Flyer.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-            </div>
-        </a>
-        
-        <a href="Projects/poingexhibit.php" class="cube">
-            <h3>Poing expo</h3>
-            <p>2023 / Poing, Rotterdam</p>
-            <div style="width: 100%; aspect-ratio: 3 / 2; overflow: hidden;">
-                <img src="/Images/Poing exhibition_MG_0051_20230323.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-            </div>
-        </a>
-    </div>
-    <div class="col-lg-6">
-        <a href="Projects/poingexhibit.php" class="cube">
-            <h3>UFF Servers</h3>
-            <p>2022-Ongoing / ???</p>
-            <div style="width: 100%; aspect-ratio: 3 / 2; overflow: hidden;">
-                <img src="/Images/servers.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-            </div>
-        </a>
-        <a href="https://daap.bannerrepeater.org/wiki/Special:Contributions/UnitedFriedFront" class="cube">
-            <h3>Zines</h3>
-            <p>2025 / Rotterdam</p>
-            <div style="width: 100%; aspect-ratio: 3 / 2; overflow: hidden;">
-                <img src="/Images/Speculative futures zines.jpg" style="width: 100%; height: 100%; object-fit: cover;">
-            </div>
-        </a>
-    </div>
-</div>
 
+<div class="container">
+<!-- projects begin -->
+ <div class="row list-row-a">
+    <a href="Projects/Rats-On-The-Run.php" >
+    <div class="col-sm-6">
+        <p>RATS_ON_THE_RUN</p>
+    </div>
+    <div class="col-sm-6">
+        <p>2024 ROTTERDAM</p>
+    </div>
+    </a>
+</div>
+<!-- next project -->
+  <div class="row list-row-a">
+    <a href="Projects/poingexhibit.php" >
+    <div class="col-sm-6">
+        <p>POING_EXPO</p>
+    </div>
+    <div class="col-sm-6">
+        <p> 2023 ROTTERDAM</p>
+    </div>
+    </a>
+</div>
+ <!-- next project -->
+  <div class="row list-row-a">
+    <a href="Projects/servers.php">
+    <div class="col-sm-6">
+        <p>UFF_SERVERS</p>
+    </div>
+    <div class="col-sm-6">
+        <p> 2022-ONGOING ROTTERDAM</p>
+    </div>
+    </a>
+</div>
+ <!-- next project -->
+  <div class="row list-row-a">
+    <a href="https://daap.bannerrepeater.org/wiki/Special:Contributions/UnitedFriedFront">
+    <div class="col-sm-6">
+        <p>ZINES</p>
+    </div>
+    <div class="col-sm-6">
+        <p> 2022-ONGOING ROTTERDAM</p>
+    </div>
+    </a>
+</div>
+</div>
 </body>
 </html> 
