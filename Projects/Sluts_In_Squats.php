@@ -2,28 +2,20 @@
 <html lang="en">
 
 <?php 
-$title = "Rats on the Run";
+$title = "Sluts In Squats";
 include '../includes/head.php';
 ?>
 
 <body>
 <div class="container">
     <?php include '../includes/navbar.php'; ?>
-  <h2 class="text-center">Rats On The Run</h2>
+  <h2 class="text-center">Sluts In Squats</h2>
 
 <!-- first row of columns -->
 <div class="row" style="margin-bottom: 1rem;">
     <div class="col-md-6">
     <p>
-Over 2023 & 2024 we produced a 43-minute long docufiction fever dream about protest, gentrification and violent squat eviction in Rotterdam. Unfortunately we had to make a movie because assaulting the police would become a problem later. 
-The film loops an illegal collaboration between the police and a housing agency, kicking out squatters before their eviction date. 
-<br><br>
-The script-writing process was an attempt to do an anti-authoritarian writing process, rejecting the idea of directors and starting a longer research and theme in our upcoming collaborations. The shooting of the project took place in a building squatted by dumpsterdiving collective RATS, our crew would stay there overnight to protect it from the angry owners. And since they provided us food during the shooting, our collective engaged in a symbiotic relationship with the dumpsterdiving collective through mutual aid and direct action.
-<br><br>
-The editing process was facilitated by the UFF server infrastructure - hosting multiple editors on one remote desktop server and keeping the files available on a NAS accessible through a vpn. This infrastructure allowed the movie to be edited from everyone’s laptops.
-<br><br>
-"It feels like this project was not supposed to exist." -certified UFF collective gold member
-
+The 20th of september '24 we celebrated the release of our mid-length docufiction movie “Rats on the Run”. This movie premiere and club night was a creative collaboration between UFF and the Roodkapje Hamburger Community residents because one of our members was part of the residency. Thanks to this opportunity to organise within Rotterdam nightlife our movie got an amazing premiere, as the event attracted a large crowd of inspiring, beautiful people. 
 </p>
     </div>
     <div class="col-md-6">

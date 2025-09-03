@@ -9,8 +9,8 @@ include 'includes/head.php';
 <body>
 <div class="container">
     <?php include 'includes/navbar.php'; ?>
-<h1 class="text-center">✨(っ◔︣◡◔᷅)っ** About **c(◕︣◡◕᷅c)✨</h1>
-</div>
+<h2 class="text-center">About</h2>
+<img src="/Images/UFF-png-fried.png" id="dvd">
 <!-- first row of columns -->
 <div class="row" style="width: 95%; margin: 0 auto;">
     <div class="col-md-6">
@@ -21,7 +21,7 @@ include 'includes/head.php';
     <div class="col-md-6">
         <a>
             <div style="width: 100%; overflow: hidden;">
-                <img src="/Images/UFF Portraits anon3 a3 riso print_20230119.jpg" style="width: 100%; height: 100%; object-fit: cover; aspect-ratio: 1 / 1;">
+                <img src="/Images/UFF Portraits anon3 a3 riso print_20230119.jpg" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
         </a>
     </div>
@@ -44,12 +44,13 @@ include 'includes/head.php';
         <div class="col-xs-4">
             <a href="">
         <p style="padding: 10px;">
-            pixelfed?
+            
         </p>
     </a>
         </div>
     </div>
+</div>
     <!-- floating uff logo -->
-<marquee> <img src="/Images/UFF-png-fried.png" height=50px> </marquee>
+<script src="uff-logo.js"></script>
 </body>
 </html> 

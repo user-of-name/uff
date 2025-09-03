@@ -12,9 +12,9 @@ echo '
             <p class="navbar-item">Projects</p>
         </div>
     </a>
-    <a href="/events.php">
+    <a href="/cv.php">
         <div class="col-xs-3 navbar-item">
-            <p class="navbar-item">Events</p>
+            <p class="navbar-item">CV</p>
         </div>
     </a>
     <a href="/about.php">

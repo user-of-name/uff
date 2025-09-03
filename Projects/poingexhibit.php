@@ -8,9 +8,9 @@ include '../includes/head.php';
 
 <body>
 <div class="container">
-  <h1 class="text-center">✨(っ◔︣◡◔᷅)っ** Poing Exhibition **c(◕︣◡◕᷅c)✨</h1>
-</div>
-<?php include '../includes/navbar.php'; ?>
+    <?php include '../includes/navbar.php'; ?>
+  <h2 class="text-center">Poing Exhibition</h2>
+
 <!-- first row of columns -->
 <div class="row" style="width: 95%; margin: 0 auto;">
     <div class="col-md-4">
@@ -36,3 +36,6 @@ include '../includes/head.php';
         </a>
     </div>
 </div>
+</div>
+</body>
+</html>
