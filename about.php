@@ -31,7 +31,7 @@ include 'includes/head.php';
 <div class="row" style="width: 95%; margin: 0 auto;">
     <div class="col-xs-4">
         <p style="padding: 10px;">
-            Email
+            uff666@riseup.net
         </p>
         </div>
         <div class="col-xs-4">
