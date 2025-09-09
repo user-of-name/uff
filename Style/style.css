@@ -28,6 +28,7 @@
     font-weight: bold;
     font-style: italic;
 } */
+
 #dvd {
   position: absolute;
   background-size: 100% auto;
@@ -74,7 +75,35 @@ html {
     padding: 6px;
     margin-bottom: 6px;
 }
+.marquee-container {
+   width: 100%;
+   /* background-color: #f8f9fa; */
+   padding: 15px 0;
+ }
 
+ .marquee-content {
+   display: flex;
+   /* animation: marquee 20s linear infinite; */
+   animation: marquee 20s linear infinite;
+ }
+
+ .marquee-item {
+    flex: 0 0 auto;
+    padding: 0 20px;
+    font-weight: bold;
+    font-size: 2.5em;
+    color: rgb(255, 0, 0);
+ }
+
+ /* @keyframes marquee {
+   0% {
+     transform: translateX(100%);
+   }
+
+   100% {
+     transform: translateX(-100%);
+   }
+ } */
 marquee {
     font-weight: bold;
     font-size: 2.5em;

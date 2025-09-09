@@ -25,9 +25,6 @@ The 20th of september '24 we celebrated the release of our mid-length docufictio
 </div>
     </div>
 </div>
-<div class="border-bottom border-end border-3" style="padding:56.25% 0 0 1rem; position:relative; margin: 1rem;">
-    <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/6H08hUQybzI?rel=0&playlist=6H08hUQybzI&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; autoplay;picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
 <div class=row style="margin-top: 1rem;">
     <div class="col-md-6">
         <div style="margin-bottom: 1rem;">
