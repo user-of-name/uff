@@ -14,7 +14,7 @@ include 'includes/head.php';
 <div class="container">
 <!-- events begin -->
   <div class="row list-row-a">
-    <a href="Projects/ExRotaprint-Residency.php" >
+    <a href="https://www.instagram.com/p/DOp9oo5CD4T/?img_index=1" >
     <div class="col-sm-6">
         <p>ExRotaprint Residency</p>
     </div>
