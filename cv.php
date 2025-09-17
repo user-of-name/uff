@@ -14,12 +14,14 @@ include 'includes/head.php';
 <div class="container">
 <!-- events begin -->
   <div class="row list-row-a">
+    <a href="Projects/ExRotaprint-Residency.php" >
     <div class="col-sm-6">
-        <p>ExRotaprint event</p>
+        <p>ExRotaprint Residency</p>
     </div>
     <div class="col-sm-6">
         <p>Event, 2025, Berlin</p>
     </div>
+</a>
 </div>
  <!-- next event -->
   <div class="row list-row-a">
@@ -36,7 +38,7 @@ include 'includes/head.php';
   <div class="row list-row-a">
     <a href="Projects/Rats-On-The-Run.php" >
     <div class="col-sm-6">
-        <p>Sluts_In_Squts Groningen edition</p>
+        <p>Sluts_And_Squats Groningen edition</p>
     </div>
     <div class="col-sm-6">
         <p>RATS_ON_THE_RUN, 2024 Groningen, Waterskaap</p>
@@ -45,9 +47,9 @@ include 'includes/head.php';
 </div>
 <!-- next event -->
   <div class="row list-row-a">
-    <a href="Projects/Rats-On-The-Run.php" >
+    <a href="https://youtu.be/2ckq10zS20A?si=kkKTqlsKr6njKlqF" >
     <div class="col-sm-6">
-        <p>Sluts_In_Squts</p>
+        <p>Sluts_And_Squats</p>
     </div>
     <div class="col-sm-6">
         <p>RATS_ON_THE_RUN, 2024 Rotterdam, Roodkapje</p>
