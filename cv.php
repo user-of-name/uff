@@ -25,9 +25,9 @@ include 'includes/head.php';
 </div>
  <!-- next event -->
   <div class="row list-row-a">
-    <a href="Projects/Rats-On-The-Run.php" >
+    <a href="https://www.instagram.com/p/DDA1Q5-tDa_/?igsh=M3ZmcXZzOHExbHFr" >
     <div class="col-sm-6">
-        <p>Maiznīca_Film_Night</p>
+        <p>Maiznīca_Screening_ROTR</p>
     </div>
     <div class="col-sm-6">
         <p>RATS_ON_THE_RUN, 2024 Riga, Maiznīca</p>
@@ -36,7 +36,7 @@ include 'includes/head.php';
 </div>
 <!-- next event -->
   <div class="row list-row-a">
-    <a href="Projects/Rats-On-The-Run.php" >
+    <a href="https://www.instagram.com/p/DBqmd8sIoFe/" >
     <div class="col-sm-6">
         <p>Sluts_And_Squats Groningen edition</p>
     </div>
@@ -58,15 +58,17 @@ include 'includes/head.php';
 </div>
 <!-- next event -->
   <div class="row list-row-a">
+    <a href="https://www.2dh5.nl/en/">
     <div class="col-sm-6">
         <p>2dh5</p>
     </div>
     <div class="col-sm-6">
-        <p>Stall, 2024, Amsterdam</p>
+        <p>Selling posters, stickers and zines, 2024, Amsterdam</p>
     </div>
 </div>
 <!-- next event -->
   <div class="row list-row-a">
+    <a href="https://www.instagram.com/p/C0J1da6o1nq/?img_index=1">
     <div class="col-sm-6">
         <p>Zine Workshop</p>
     </div>
@@ -85,12 +87,12 @@ include 'includes/head.php';
 </div>
 <!-- next event -->
   <div class="row list-row-a">
-    
+        <a href="https://www.2dh5.nl/en/">
     <div class="col-sm-6">
         <p>2dh5</p>
     </div>
     <div class="col-sm-6">
-        <p>Stall, 2023, Amsterdam</p>
+        <p>Selling posters, stickers and zines, 2023, Amsterdam</p>
     </div>
 </div>
 <!-- next event -->
