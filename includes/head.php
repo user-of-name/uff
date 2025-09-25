@@ -10,7 +10,7 @@ echo '
   <link rel="stylesheet" href="/Style/style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  <link rel="icon" href="/Images/UFF-png-fried.png" type="image/png">
+  <link rel="icon" href="/Images/UFF Logo smol.png" type="image/png">
 </head>
 ';
 ?>

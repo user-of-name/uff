@@ -33,8 +33,8 @@
   position: absolute;
   background-size: 100% auto;
   background-repeat: no-repeat;
-  width: 75px;
-  height: 75px;
+  width: 100px;
+  height: 100px;
   /* color: #fff; */
 }
 
@@ -92,7 +92,7 @@ html {
     padding: 0 20px;
     font-weight: bold;
     font-size: 2.5em;
-    color: rgb(255, 0, 0);
+    color: #ff9aff;
  }
 
  /* @keyframes marquee {
@@ -107,7 +107,7 @@ html {
 marquee {
     font-weight: bold;
     font-size: 2.5em;
-    color: rgb(255, 0, 0);
+    color: #ff9aff;
     padding: 10px;
     animation: marquee linear 5s infinite;
 
@@ -133,13 +133,13 @@ marquee {
     margin-top: 5px;
     margin: 5px; 
     margin-right: 5px;
-    color: white;
+    color: #eec2f0;
     font-size: 1em;
-    border-bottom: black 2px solid;
+    border-bottom: #eec2f0 2px solid;
 }
 
 .list-row-a:hover {
-    background-color: rgb(18, 18, 18);
+    background-color: #3f257c;
     font-weight: 700;
     /* color: #000000; */
     cursor: pointer;
@@ -428,7 +428,7 @@ th {
         display: block;
         width: 90vh;
         margin: auto;
-        background-color: black;
+        background-color: #de63cf;
     }
 
     .btn>.caret,
@@ -1546,7 +1546,7 @@ body {
     font-size: 1.3rem;
     line-height: 1.42857143;
     /* color: #ffffff; */
-    background-color: rgb(20, 20, 20)
+    background-color: #10167c
 }
 
 button,
@@ -1755,7 +1755,7 @@ h1 {
     font-size: 3em;
     font-family: "Ubuntu Mono", monospace;
     font-weight: 700;
-    color: #ffffff;
+    color: #eec2f0;
     position: center;
 }
 h1::after {
@@ -1768,7 +1768,7 @@ h2 {
     font-size: 2em;
     font-family: "Ubuntu Mono", monospace;
     font-weight: 700;
-    color: #ffffff;
+    color: #eec2f0;
     position: center;
     
 }
@@ -1785,7 +1785,7 @@ h2::after{
 h3 {
     font-size: 1em;
     font-family: "Ubuntu Mono", monospace;
-    color: #ffffff;
+    color: #eec2f0;
     position: center;
 }
 
@@ -1808,7 +1808,7 @@ p {
     /* margin: 0 0 10px; */
     font-family: "Ubuntu Mono", monospace;
     font-size: 1em;;
-    color: white;
+    color: #eec2f0;
 }
 
 .lead {
@@ -1832,7 +1832,7 @@ small {
 .mark,
 mark {
     padding: .2em;
-    background-color: #fcf8e3
+    background-color: #eec2f0
 }
 
 .text-left {
@@ -1872,7 +1872,7 @@ mark {
 }
 
 .text-primary {
-    color: #337ab7
+    color: #eec2f0
 }
 
 a.text-primary:focus,
@@ -5372,11 +5372,11 @@ textarea.input-group-sm>.input-group-btn>.btn {
     position: center;
     margin-bottom: 10px;
     margin-top: 10px;
-    background-color: black;
+    background-color: #eec2f0;
     /* border-top: #ffffff 1px solid; */
 }
 .navbar-item{
-    color: #ffffff;
+    color: #10167c;
     text-align: center;
     /* background-color: black; */
     
