@@ -44,7 +44,7 @@ $title = "United Fried Front";
 </a>
 </div>
 </div>
-<img src="/Images/UFF-png-fried.png" id="dvd">
+<img src="/Images/UFF Logo no bg.png" id="dvd">
 </body>
 <script src="uff-logo.js"></script>
 </html> 
