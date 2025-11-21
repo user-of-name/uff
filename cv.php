@@ -14,7 +14,7 @@ include 'includes/head.php';
 <div class="container">
 <!-- events begin -->
   <div class="row list-row-a">
-    <a href="https://www.instagram.com/p/DOp9oo5CD4T/?img_index=1" >
+    <a href="https://www.instagram.com/p/DOp9oo5CD4T/" >
     <div class="col-sm-6">
         <p>ExRotaprint Residency</p>
     </div>
@@ -25,7 +25,7 @@ include 'includes/head.php';
 </div>
  <!-- next event -->
   <div class="row list-row-a">
-    <a href="https://www.instagram.com/p/DDA1Q5-tDa_/?igsh=M3ZmcXZzOHExbHFr" >
+    <a href="https://www.instagram.com/p/DDA1Q5-tDa_/" >
     <div class="col-sm-6">
         <p>Maiznīca_Screening_ROTR</p>
     </div>
@@ -47,7 +47,7 @@ include 'includes/head.php';
 </div>
 <!-- next event -->
   <div class="row list-row-a">
-    <a href="https://youtu.be/2ckq10zS20A?si=kkKTqlsKr6njKlqF" >
+    <a href="https://youtu.be/2ckq10zS20A" >
     <div class="col-sm-6">
         <p>Sluts_And_Squats</p>
     </div>
@@ -68,7 +68,7 @@ include 'includes/head.php';
 </div>
 <!-- next event -->
   <div class="row list-row-a">
-    <a href="https://www.instagram.com/p/C0J1da6o1nq/?img_index=1">
+    <a href="https://www.instagram.com/p/C0J1da6o1nq/>
     <div class="col-sm-6">
         <p>Zine Workshop</p>
     </div>
@@ -97,6 +97,7 @@ include 'includes/head.php';
 </div>
 <!-- next event -->
   <div class="row list-row-a">
+        <a href="https://www.instagram.com/p/CqN9Kb1shXM/">
     <div class="col-sm-6">
         <p>Poing Exhibition</p>
     </div>
@@ -106,6 +107,7 @@ include 'includes/head.php';
 </div>
 <!-- next event -->
   <div class="row list-row-a">
+            <a href="https://www.instagram.com/p/Cy8OB59o7NC/"
     <div class="col-sm-6">
         <p>Halloween Flash and Print Day</p>
     </div>
@@ -115,15 +117,7 @@ include 'includes/head.php';
 </div>
 <!-- next event -->
   <div class="row list-row-a">
-    <div class="col-sm-6">
-        <p>Soup of Solidarity</p>
-    </div>
-    <div class="col-sm-6">
-        <p>Solidarity Soup Action, Rotterdam, Woonopstand</p>
-    </div>
-</div>
-<!-- next event -->
-  <div class="row list-row-a">
+        <a href="https://www.instagram.com/zinecamp/">
     <div class="col-sm-6">
         <p>Zine Camp</p>
     </div>
@@ -133,6 +127,7 @@ include 'includes/head.php';
 </div>
 <!-- next event -->
   <div class="row list-row-a">
+        <a href="https://fortepressa.net/crack2023/">
     <div class="col-sm-6">
         <p>CRACK!</p>
     </div>
@@ -142,6 +137,7 @@ include 'includes/head.php';
 </div>
 <!-- next event -->
   <div class="row list-row-a">
+        <a href="https://roodkapje.org/event/2023-02-crisismarct/"
     <div class="col-sm-6">
         <p>Crisismarkt</p>
     </div>
@@ -151,16 +147,7 @@ include 'includes/head.php';
 </div>
 <!-- next event -->
   <div class="row list-row-a">
-    <div class="col-sm-6">
-        <p>Eviction Protest</p>
-    </div>
-    <div class="col-sm-6">
-        <p>Protest, 2022, Rotterdam, Pompy</p>
-    </div>
-</div>
-<!-- next event -->
-  <div class="row list-row-a">
-    
+        <a href="https://www.instagram.com/p/CkJMNV0IuRe/">
     <div class="col-sm-6">
         <p>Queer Zine Fest Berlin</p>
     </div>
@@ -170,6 +157,7 @@ include 'includes/head.php';
 </div>
 <!-- next event -->
   <div class="row list-row-a">
+        <a href="https://www.instagram.com/p/ChPPGCAqF5C/">
     <div class="col-sm-6">
         <p>Animafest</p>
     </div>
@@ -179,6 +167,7 @@ include 'includes/head.php';
 </div>
 <!-- next event -->
   <div class="row list-row-a">
+        <a href="https://www.instagram.com/mono_rotterdam/">
     <div class="col-sm-6">
         <p>Glitchfries Expo</p>
     </div>
