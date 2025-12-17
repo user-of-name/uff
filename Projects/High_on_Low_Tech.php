@@ -2,7 +2,7 @@
 <html lang="en">
 
 <?php 
-$title = "UFF_Servers";
+$title = "High on Low Tech";
 include '../includes/head.php';
 ?>
 

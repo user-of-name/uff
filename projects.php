@@ -15,6 +15,17 @@ include 'includes/head.php';
 
 <div class="container">
 <!-- projects begin -->
+ <div class="row list-row-a">
+    <a href="Projects/High_on_Low_Tech.php" >
+    <div class="col-sm-6">
+        <p>High on Low Tech</p>
+    </div>
+    <div class="col-sm-6">
+        <p>2025, Everywhere</p>
+    </div>
+    </a>
+</div>
+<!-- next project -->
   <div class="row list-row-a">
     <a href="Projects/I_Wished_To_Be_Magic.php" >
     <div class="col-sm-6">
