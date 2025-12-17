@@ -38,9 +38,9 @@ include 'includes/head.php';
 </div>
 <!-- next project -->
  <div class="row list-row-a">
-    <a href="Projects/Sluts_In_Squats.php" >
+    <a href="Projects/Sluts_And_Squats.php" >
     <div class="col-sm-6">
-        <p>Sluts In Squats</p>
+        <p>Sluts And Squats</p>
     </div>
     <div class="col-sm-6">
         <p>2024, Rotterdam, Roodkapje</p>

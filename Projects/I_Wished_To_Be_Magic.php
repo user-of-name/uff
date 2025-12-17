@@ -15,7 +15,7 @@ include '../includes/head.php';
 <div class="row" style="margin-bottom: 1rem;">
     <div class="col-md-6">
     <p>
-the poem or a description of the thing? idk
+Having fun with friends, playing epic flute and writing epic poetry in a matress fort in a squat! Become an anarchist and save the world! Goodbye!
 </p>
     </div>
     <div class="col-md-6">
