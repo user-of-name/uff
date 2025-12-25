@@ -23,9 +23,6 @@ Our project High on Low Tech aims to build up a collection of images to act as t
 The images that form the motheryeast of the collective meme culture come from our previous works, our recent meetups and our documentation of each others works. Here we open our process to everyone, if you want stickers, let us know, we can print some out and send them to you. You can download the print files and print them out yourself. Please send us images of how the stickers live their lives, how they change and evolve in your localities to become memes in the next locality!
 </p>
 </div>
-<div>
-                <img src="/Images/Berlin-UFF-023.jpg" class="project-img">
-            </div>
             
     </div>
     
@@ -53,12 +50,60 @@ The images that form the motheryeast of the collective meme culture come from ou
                     You can also get in touch with us via uff666@riseup.net and we can send you stickers!!!
                 </p>
             </div>
-            <div>
-                <img src="/Images/jail rats on the run.jpg" class="project-img">
-            </div>
         </a>
     </div>
 </div>
+<div style="background-color: black" class="row">
+    <div class="col-xs-4" style="background-color: black">
+            <div>
+                <img src="/Images/Berlin-UFF-021.jpg" class="project-img">
+            </div>
+    </div>
+    <div class="col-xs-4" style="background-color: black">
+            <div>
+                <img src="/Images/Berlin-UFF-023.jpg" class="project-img">
+            </div>
+    </div>
+    <div class="col-xs-4" style="background-color: black">
+            <div>
+                <img src="/Images/Sticker archiving session 25.12.2025-009.jpg" class="project-img">
+            </div>
+    </div>
 </div>
+<div style="background-color: black" class="row">
+    <div class="col-md-6" style="background-color: black">
+           <div>
+                <img src="/Images/Sticker archiving session 25.12.2025-017.jpg" class="project-img">
+            </div>
+            <div>
+                <img src="/Images/Sticker archiving session 25.12.2025-029.jpg" class="project-img">
+            </div>
+</div>
+    <div class="col-md-6" style="background-color: black">
+            <div>
+                <img src="/Images/Berlin-UFF-018.jpg" class="project-img">
+            </div> 
+    </div>
+</div>
+
+<div style="background-color: black" class="row">
+    <div class="col-md-6" style="background-color: black">
+            <div>
+                <img src="/Images/Sticker archiving session 25.12.2025-024.jpg" class="project-img">
+            </div>
+            <div>
+                <img src="/Images/Sticker archiving session 25.12.2025-025.jpg" class="project-img">
+            </div>
+    </div>
+    <div class="col-md-6" style="background-color: black">
+            <div>
+                <img src="/Images/Sticker archiving session 25.12.2025-013.jpg" class="project-img">
+            </div>
+            <div>
+                <img src="/Images/Sticker archiving session 25.12.2025-023.jpg" class="project-img">
+            </div>
+    </div>
+</div>
+
 </body>
 </html>
